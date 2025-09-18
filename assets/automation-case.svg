@@ -1,0 +1,29 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#f3f4f6"/>
+  <rect x="50" y="50" width="500" height="300" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="2"/>
+  
+  <!-- Email Template -->
+  <rect x="100" y="100" width="400" height="200" rx="5" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  
+  <!-- Email Header -->
+  <rect x="120" y="120" width="360" height="40" rx="3" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="140" y="135" width="150" height="10" rx="2" fill="#1f2937"/>
+  <circle cx="450" cy="140" r="10" fill="#3b82f6"/>
+  
+  <!-- Email Content -->
+  <rect x="120" y="180" width="360" height="10" rx="2" fill="#6b7280"/>
+  <rect x="120" y="200" width="320" height="10" rx="2" fill="#6b7280"/>
+  <rect x="120" y="220" width="340" height="10" rx="2" fill="#6b7280"/>
+  <rect x="120" y="240" width="280" height="10" rx="2" fill="#6b7280"/>
+  
+  <!-- Automation Flow Arrows -->
+  <path d="M300,50 L300,20 L350,20 L350,50" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <path d="M300,350 L300,380 L350,380 L350,350" fill="none" stroke="#2563eb" stroke-width="2"/>
+  
+  <!-- Automation Icons -->
+  <circle cx="325" cy="20" r="10" fill="#2563eb"/>
+  <path d="M320,20 L330,20 M325,15 L325,25" stroke="white" stroke-width="2"/>
+  
+  <circle cx="325" cy="380" r="10" fill="#2563eb"/>
+  <path d="M320,380 L330,380 M325,375 L325,385" stroke="white" stroke-width="2"/>
+</svg>
